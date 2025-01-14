@@ -1,0 +1,5 @@
+C:\Users\cakye3c\Documents\C-REINVENTWHEEL\obj\Debug\net7.0\C-REINVENTWHEEL.csproj.AssemblyReference.cache
+C:\Users\cakye3c\Documents\C-REINVENTWHEEL\obj\Debug\net7.0\C-REINVENTWHEEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakye3c\Documents\C-REINVENTWHEEL\obj\Debug\net7.0\C-REINVENTWHEEL.AssemblyInfoInputs.cache
+C:\Users\cakye3c\Documents\C-REINVENTWHEEL\obj\Debug\net7.0\C-REINVENTWHEEL.AssemblyInfo.cs
+C:\Users\cakye3c\Documents\C-REINVENTWHEEL\obj\Debug\net7.0\C-REINVENTWHEEL.csproj.CoreCompileInputs.cache
